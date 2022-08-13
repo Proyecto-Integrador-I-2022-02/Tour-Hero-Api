@@ -21,6 +21,5 @@ public class HeroController {
     public Hero getHero(Integer id){
         return heroService.getHero(id);
 
-
     }
 }
